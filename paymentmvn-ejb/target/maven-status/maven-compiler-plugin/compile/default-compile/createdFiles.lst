@@ -1,0 +1,6 @@
+com\udea\ejb\PaymentFacadeLocal.class
+com\udea\entity\Payment_.class
+com\udea\ejb\AbstractFacade.class
+com\udea\entity\Payment.class
+com\udea\NewSessionBean.class
+com\udea\ejb\PaymentFacade.class
